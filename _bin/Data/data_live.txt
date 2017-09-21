@@ -1,0 +1,4133 @@
+	- - - Live - - -					
+Username	:	HelmetDJ					
+User ID		:	25732099				
+Brodcast ID	:	112244800			
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-164-43-131.compute-1.amazonaws.com					
+Stream		:	Stream-112244800				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-54-164-43-131.compute-1.amazonaws.com/Stream-112244800					
+Filename	:	HelmetDJ_live_112244800.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	HarryTrick					
+User ID		:	20864653				
+Brodcast ID	:	112253917			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-154-234-45.eu-west-1.compute.amazonaws.com					
+Stream		:	Stream-112253917				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-154-234-45.eu-west-1.compute.amazonaws.com/Stream-112253917					
+Filename	:	HarryTrick_live_112253917.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	EmmaMcGann					
+User ID		:	20864653				
+Brodcast ID	:	112253917			
+Host		:	$00401CEC					
+App		:						
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	EmmaMcGann_live_112253917.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	EmmaMcGann					
+User ID		:	20864653				
+Brodcast ID	:	112253917			
+Host		:	$00401CEC					
+App		:						
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	EmmaMcGann_live_112253917.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	EmmaMcGann					
+User ID		:	20864653				
+Brodcast ID	:	112253917			
+Host		:	$00401CEC					
+App		:						
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	EmmaMcGann_live_112253917.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	norathemusicaddict					
+User ID		:	15868321				
+Brodcast ID	:	112247669			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com					
+Stream		:	Stream-112247669				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com/Stream-112247669					
+Filename	:	norathemusicaddict_live_112247669.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	ItsRickyHauck					
+User ID		:	9796318				
+Brodcast ID	:	112254846			
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-164-43-131.compute-1.amazonaws.com					
+Stream		:	Stream-112254846				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-54-164-43-131.compute-1.amazonaws.com/Stream-112254846					
+Filename	:	ItsRickyHauck_live_112254846.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	norathemusicaddict					
+User ID		:	15868321				
+Brodcast ID	:	112247669			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com					
+Stream		:	Stream-112247669				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com/Stream-112247669					
+Filename	:	norathemusicaddict_live_112247669.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	norathemusicaddict					
+User ID		:	15868321				
+Brodcast ID	:	112247669			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com					
+Stream		:	Stream-112247669				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com/Stream-112247669					
+Filename	:	norathemusicaddict_live_112247669.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Thatgirl_tay					
+User ID		:	17615695				
+Brodcast ID	:	112263272			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112263272				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112263272					
+Filename	:	Thatgirl_tay_live_112263272.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Thatgirl_tay					
+User ID		:	17615695				
+Brodcast ID	:	112263272			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112263272				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112263272					
+Filename	:	Thatgirl_tay_live_112263272.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	ItsRickyHauck					
+User ID		:	9796318				
+Brodcast ID	:	112259857			
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-201-244-34.compute-1.amazonaws.com					
+Stream		:	Stream-112259857				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-201-244-34.compute-1.amazonaws.com/Stream-112259857					
+Filename	:	ItsRickyHauck_live_112259857.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	ItsRickyHauck					
+User ID		:	9796318				
+Brodcast ID	:	112259857			
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-201-244-34.compute-1.amazonaws.com					
+Stream		:	Stream-112259857				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-201-244-34.compute-1.amazonaws.com/Stream-112259857					
+Filename	:	ItsRickyHauck_live_112259857.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	norathemusicaddict					
+User ID		:	15868321				
+Brodcast ID	:	112247669			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com					
+Stream		:	Stream-112247669				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com/Stream-112247669					
+Filename	:	norathemusicaddict_live_112247669.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	HelmetDJ					
+User ID		:	25732099				
+Brodcast ID	:	112244800			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-164-43-131.compute-1.amazonaws.com					
+Stream		:	Stream-112244800				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-164-43-131.compute-1.amazonaws.com/Stream-112244800					
+Filename	:	HelmetDJ_live_112244800.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112265805			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112265805				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112265805					
+Filename	:	6angk_live_112265805.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112265805			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112265805				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112265805					
+Filename	:	6angk_live_112265805.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	MateItsEric					
+User ID		:	12096085				
+Brodcast ID	:	112264488			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com					
+Stream		:	Stream-112264488				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com/Stream-112264488					
+Filename	:	MateItsEric_live_112264488.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	MateItsEric					
+User ID		:	12096085				
+Brodcast ID	:	112264488			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com					
+Stream		:	Stream-112264488				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com/Stream-112264488					
+Filename	:	MateItsEric_live_112264488.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Woahitsbryce					
+User ID		:	6754977				
+Brodcast ID	:	112267797			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112267797				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112267797					
+Filename	:	Woahitsbryce_live_112267797.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Woahitsbryce					
+User ID		:	6754977				
+Brodcast ID	:	112267797			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112267797				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112267797					
+Filename	:	Woahitsbryce_live_112267797.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Lilly_gator					
+User ID		:	25856543				
+Brodcast ID	:	112268217			
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-201-244-34.compute-1.amazonaws.com					
+Stream		:	Stream-112268217				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-201-244-34.compute-1.amazonaws.com/Stream-112268217					
+Filename	:	Lilly_gator_live_112268217.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Lilly_gator					
+User ID		:	25856543				
+Brodcast ID	:	112268217			
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-201-244-34.compute-1.amazonaws.com					
+Stream		:	Stream-112268217				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-201-244-34.compute-1.amazonaws.com/Stream-112268217					
+Filename	:	Lilly_gator_live_112268217.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	MateItsEric					
+User ID		:	12096085				
+Brodcast ID	:	112264488			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com					
+Stream		:	Stream-112264488				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com/Stream-112264488					
+Filename	:	MateItsEric_live_112264488.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	ramlogans					
+User ID		:	25861314				
+Brodcast ID	:	112270258			
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-164-43-131.compute-1.amazonaws.com					
+Stream		:	Stream-112270258				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-54-164-43-131.compute-1.amazonaws.com/Stream-112270258					
+Filename	:	ramlogans_live_112270258.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	aurora_love9499					
+User ID		:	24139302				
+Brodcast ID	:	112267413			
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-201-244-34.compute-1.amazonaws.com					
+Stream		:	Stream-112267413				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-201-244-34.compute-1.amazonaws.com/Stream-112267413					
+Filename	:	aurora_love9499_live_112267413.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	aurora_love9499					
+User ID		:	24139302				
+Brodcast ID	:	112267413			
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-201-244-34.compute-1.amazonaws.com					
+Stream		:	Stream-112267413				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-201-244-34.compute-1.amazonaws.com/Stream-112267413					
+Filename	:	aurora_love9499_live_112267413.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	southern_shade					
+User ID		:	25543749				
+Brodcast ID	:	112265941			
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-152-160-96.compute-1.amazonaws.com					
+Stream		:	Stream-112265941				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-54-152-160-96.compute-1.amazonaws.com/Stream-112265941					
+Filename	:	southern_shade_live_112265941.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	MadieCrazy					
+User ID		:	10849698				
+Brodcast ID	:	112270530			
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-201-244-34.compute-1.amazonaws.com					
+Stream		:	Stream-112270530				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-201-244-34.compute-1.amazonaws.com/Stream-112270530					
+Filename	:	MadieCrazy_live_112270530.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	StephenSchuch					
+User ID		:	6438608				
+Brodcast ID	:	112277075			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-152-160-96.compute-1.amazonaws.com					
+Stream		:	Stream-112277075				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-152-160-96.compute-1.amazonaws.com/Stream-112277075					
+Filename	:	StephenSchuch_live_112277075.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	y					
+User ID		:	6438608				
+Brodcast ID	:	112277075			
+Host		:	$00401CEC					
+App		:						
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	y_live_112277075.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	MalikDavage					
+User ID		:	6438608				
+Brodcast ID	:	112277075			
+Host		:	$00401CEC					
+App		:						
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	MalikDavage_live_112277075.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	MalikDavage					
+User ID		:	25350841				
+Brodcast ID	:	112276054			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-89-110-17.compute-1.amazonaws.com					
+Stream		:	Stream-112276054				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-89-110-17.compute-1.amazonaws.com/Stream-112276054					
+Filename	:	MalikDavage_live_112276054.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	MalikDavage					
+User ID		:	25350841				
+Brodcast ID	:	112276054			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-89-110-17.compute-1.amazonaws.com					
+Stream		:	Stream-112276054				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-89-110-17.compute-1.amazonaws.com/Stream-112276054					
+Filename	:	MalikDavage_live_112276054.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	ElizabethBrooksYouNoww					
+User ID		:	20373004				
+Brodcast ID	:	112279446			
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-154-234-45.eu-west-1.compute.amazonaws.com					
+Stream		:	Stream-112279446				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-54-154-234-45.eu-west-1.compute.amazonaws.com/Stream-112279446					
+Filename	:	ElizabethBrooksYouNoww_live_112279446.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	JuarezTwins					
+User ID		:	14750328				
+Brodcast ID	:	112281091			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112281091				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112281091					
+Filename	:	JuarezTwins_live_112281091.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	flippinginja					
+User ID		:	2257774				
+Brodcast ID	:	112281517			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112281517				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112281517					
+Filename	:	flippinginja_live_112281517.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	flippinginja					
+User ID		:	2257774				
+Brodcast ID	:	112281517			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112281517				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112281517					
+Filename	:	flippinginja_live_112281517.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	flippinginja					
+User ID		:	2257774				
+Brodcast ID	:	112281517			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112281517				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112281517					
+Filename	:	flippinginja_live_112281517.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	OfficialSahilG					
+User ID		:	2267716				
+Brodcast ID	:	112288691			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112288691				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112288691					
+Filename	:	OfficialSahilG_live_112288691.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	OfficialSahilG					
+User ID		:	2267716				
+Brodcast ID	:	112288691			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112288691				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112288691					
+Filename	:	OfficialSahilG_live_112288691.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112298141			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112298141				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112298141					
+Filename	:	6angk_live_112298141.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Loren_Beech					
+User ID		:	2640262				
+Brodcast ID	:	112347867			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112347867				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112347867					
+Filename	:	Loren_Beech_live_112347867.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Loren_Beech					
+User ID		:	2640262				
+Brodcast ID	:	112347867			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112347867				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112347867					
+Filename	:	Loren_Beech_live_112347867.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Loren_Beech					
+User ID		:	2640262				
+Brodcast ID	:	112347867			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112347867				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112347867					
+Filename	:	Loren_Beech_live_112347867.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Loren_Beech					
+User ID		:	2640262				
+Brodcast ID	:	112347867			
+Host		:	$00401CEC					
+App		:						
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	Loren_Beech_live_112347867.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Loren_Beech					
+User ID		:	2640262				
+Brodcast ID	:	112347867			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112347867				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112347867					
+Filename	:	Loren_Beech_live_112347867.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	CalebBielski					
+Country		:					
+User ID		:	2852920				
+User level	:					
+Brodcast ID	:	112347491			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App			:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112347491				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112347491					
+Filename	:	CalebBielski_live_112347491.flv				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+YouTube Channel 	:						
+YouTube Name		:					
+-------------------------------------------
+	- - - Live - - -					
+Username	:	CalebBielski					
+Country		:					
+User ID		:	2852920				
+User level	:					
+Brodcast ID	:	112347491			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App			:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112347491				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112347491					
+Filename	:	CalebBielski_live_112347491.flv				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+YouTube Channel 	:						
+YouTube Name		:					
+-------------------------------------------
+	- - - Live - - -					
+Username	:	CalebBielski					
+Country		:					
+User ID		:	2852920				
+User level	:	$00401CEC				
+Brodcast ID	:	112347491			
+Host		:	$00401CEC					
+App			:						
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	CalebBielski_live_112347491.flv				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+YouTube Channel 	:	www.youtube.com/					
+YouTube Name		:					
+-------------------------------------------
+	- - - Live - - -					
+Username	:	CalebBielski					
+Country		:					
+User ID		:	2852920				
+User level	:					
+Brodcast ID	:	112347491			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App			:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112347491				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112347491					
+Filename	:	CalebBielski_live_112347491.flv				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+YouTube Channel 	:						
+YouTube Name		:					
+-------------------------------------------
+	- - - Live - - -					
+Username	:	CalebBielski					
+Country		:					
+User ID		:	2852920				
+User level	:					
+Brodcast ID	:	112347491			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App			:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112347491				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112347491					
+Filename	:	CalebBielski_live_112347491.flv				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+YouTube Channel 	:						
+YouTube Name		:					
+-------------------------------------------
+	- - - Live - - -					
+Username	:	CalebBielski					
+Country		:					
+User ID		:	2852920				
+User level	:					
+Brodcast ID	:	112347491			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App			:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112347491				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112347491					
+Filename	:	CalebBielski_live_112347491.flv				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+YouTube Channel 	:						
+YouTube Name		:					
+-------------------------------------------
+	- - - Live - - -					
+Username	:	CalebBielski					
+Country		:					
+User ID		:	2852920				
+User level	:	["guys"]				
+Brodcast ID	:	112347491			
+Host		:						
+App			:						
+Stream		:					
+RTMP		:	rtmp:///					
+Filename	:	CalebBielski_live_112347491.flv				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+YouTube Channel 	:						
+YouTube Name		:					
+-------------------------------------------
+	- - - Live - - -					
+Username	:	CalebBielski					
+Country		:					
+User ID		:	2852920				
+User level	:	["guys"]				
+Brodcast ID	:	112347491			
+Host		:						
+App			:						
+Stream		:					
+RTMP		:	rtmp:///					
+Filename	:	CalebBielski_live_112347491.flv				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+YouTube Channel 	:						
+YouTube Name		:					
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Hunterrowland					
+Country		:					
+User ID		:	7465165				
+User level	:					
+Brodcast ID	:	112356118			
+Host		:						
+App			:						
+Stream		:					
+RTMP		:	rtmp:///					
+Filename	:	Hunterrowland_live_112356118.flv				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+YouTube Channel 	:						
+YouTube Name		:					
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Hunterrowland					
+Country		:					
+User ID		:	7465165				
+User level	:					
+Brodcast ID	:	112356118			
+Host		:						
+App			:						
+Stream		:					
+RTMP		:	rtmp:///					
+Filename	:	Hunterrowland_live_112356118.flv				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+YouTube Channel 	:						
+YouTube Name		:					
+-------------------------------------------
+	- - - Live - - -					
+Username	:	6angk					
+Country		:					
+User ID		:	18972472				
+User level	:					
+Brodcast ID	:	112360204			
+Host		:						
+App			:						
+Stream		:					
+RTMP		:	rtmp:///					
+Filename	:	6angk_live_112360204.flv				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+YouTube Channel 	:						
+YouTube Name		:					
+-------------------------------------------
+	- - - Live - - -					
+-------------------------------------------
+	- - - Live - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112360204			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112360204				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112360204					
+Filename	:	6angk_live_112360204.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Hunterrowland					
+User ID		:	7465165				
+Brodcast ID	:	112356118			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112356118				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112356118					
+Filename	:	Hunterrowland_live_112356118.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Hunterrowland					
+User ID		:	7465165				
+Brodcast ID	:	112356118			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112356118				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112356118					
+Filename	:	Hunterrowland_live_112356118.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Hunterrowland					
+User ID		:	7465165				
+Brodcast ID	:	112356118			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112356118				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112356118					
+Filename	:	Hunterrowland_live_112356118.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Hunterrowland					
+User ID		:	7465165				
+Brodcast ID	:	112356118			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112356118				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112356118					
+Filename	:	Hunterrowland_live_112356118.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	Hunterrowland					
+User ID		:	7465165				
+Brodcast ID	:	112356118			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112356118				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112356118					
+Filename	:	Hunterrowland_live_112356118.flv				
+-------------------------------------------
+	- - - Live - - -					
+Username	:	woahits_jonas					
+Country		:	US				
+User ID		:	11088961				
+User level	:	92.105148583333				
+Brodcast ID	:	112363087			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App			:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112363087				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112363087					
+Filename	:	woahits_jonas_live_112363087.flv				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112363087/112363087.jpg				
+Total Fans	:	203465				
+Fans		:	226					
+Viewers		:	2570				
+Likes		:	1899					
+Shares		:	55				
+Points		:	27125383				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	woahits_jonas					
+Country		:	US				
+User ID		:	11088961				
+User level	:	92.105148583333				
+Brodcast ID	:	112363087			
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112363087				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112363087					
+Filename	:	woahits_jonas_live_112363087.flv				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112363087/112363087.jpg				
+Total Fans	:	203465				
+Fans		:	261					
+Viewers		:	2399				
+Likes		:	2207					
+Shares		:	62				
+Points		:	27125383				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	woahits_jonas					
+User ID		:	11088961				
+Brodcast ID	:	112363087			
+User level	:	92.105148583333				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112363087				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112363087					
+Filename	:	woahits_jonas_live_112363087.flv				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112363087/112363087.jpg				
+Total Fans	:	203465				
+Fans		:	311					
+Viewers		:	2371				
+Likes		:	2517					
+Shares		:	70				
+Points		:	27125383				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112360204			
+User level	:	59.93872				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112360204				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112360204					
+Filename	:	6angk_live_112360204.flv				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112360204/112360204.jpg				
+Total Fans	:	58600				
+Fans		:	1476					
+Viewers		:	2409				
+Likes		:	5139					
+Shares		:	43				
+Points		:	2371748				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112360204			
+User level	:	59.93872				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112360204				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112360204					
+Filename	:	6angk_live_112360204				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112360204/112360204.jpg				
+Total Fans	:	58600				
+Fans		:	1499					
+Viewers		:	2428				
+Likes		:	5170					
+Shares		:	45				
+Points		:	2371748				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112360204			
+User level	:	59.93872				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112360204				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112360204					
+Filename	:	6angk_live_112360204				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112360204/112360204.jpg				
+Total Fans	:	58600				
+Fans		:	1548					
+Viewers		:	2399				
+Likes		:	5305					
+Shares		:	47				
+Points		:	2371748				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	NathanTriska					
+User ID		:	2666470				
+Brodcast ID	:	112369287			
+User level	:	91.0796835				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112369287				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112369287					
+Filename	:	NathanTriska_live_112369287_0				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112369287/112369287.jpg				
+Total Fans	:	212838				
+Fans		:	164					
+Viewers		:	1768				
+Likes		:	1005					
+Shares		:	32				
+Points		:	24022967				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	NathanTriska					
+User ID		:	2666470				
+Brodcast ID	:	112369287			
+User level	:	91.0796835				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112369287				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112369287					
+Filename	:	NathanTriska_live_112369287_0				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112369287/112369287.jpg				
+Total Fans	:	212838				
+Fans		:	167					
+Viewers		:	1703				
+Likes		:	1052					
+Shares		:	33				
+Points		:	24022967				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	eviewhy					
+User ID		:	19702999				
+Brodcast ID	:	112358262			
+User level	:	89.6280365				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112358262				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112358262					
+Filename	:	eviewhy_live_112358262				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112358262/112358262.jpg				
+Total Fans	:	57003				
+Fans		:	407					
+Viewers		:	1716				
+Likes		:	1178					
+Shares		:	82				
+Points		:	21119673				
+Tags		:	["vidcon"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	eviewhy					
+User ID		:	19702999				
+Brodcast ID	:	112358262			
+User level	:	89.6280365				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112358262				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112358262					
+Filename	:	eviewhy_live_112358262				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112358262/112358262.jpg				
+Total Fans	:	57003				
+Fans		:	412					
+Viewers		:	1736				
+Likes		:	1180					
+Shares		:	82				
+Points		:	21119673				
+Tags		:	["vidcon"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	eviewhy					
+User ID		:	19702999				
+Brodcast ID	:	112358262			
+User level	:	89.6280365				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112358262				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112358262					
+Filename	:	eviewhy_live_112358262				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112358262/112358262.jpg				
+Total Fans	:	57003				
+Fans		:	420					
+Viewers		:	1658				
+Likes		:	1191					
+Shares		:	83				
+Points		:	21119673				
+Tags		:	["vidcon"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	eviewhy					
+User ID		:	19702999				
+Brodcast ID	:	112358262			
+User level	:	89.6280365				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112358262				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112358262					
+Filename	:	eviewhy_live_112358262				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112358262/112358262.jpg				
+Total Fans	:	57003				
+Fans		:	431					
+Viewers		:	1784				
+Likes		:	1219					
+Shares		:	84				
+Points		:	21119673				
+Tags		:	["vidcon"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	eviewhy					
+User ID		:	19702999				
+Brodcast ID	:	112358262			
+User level	:	89.6280365				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112358262				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112358262					
+Filename	:	eviewhy_live_112358262				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112358262/112358262.jpg				
+Total Fans	:	57003				
+Fans		:	448					
+Viewers		:	1791				
+Likes		:	1271					
+Shares		:	86				
+Points		:	21119673				
+Tags		:	["vidcon"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	eviewhy					
+User ID		:	19702999				
+Brodcast ID	:	112358262			
+User level	:	89.6280365				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112358262				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112358262					
+Filename	:	eviewhy_live_112358262				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112358262/112358262.jpg				
+Total Fans	:	57003				
+Fans		:	492					
+Viewers		:	1485				
+Likes		:	1373					
+Shares		:	87				
+Points		:	21119673				
+Tags		:	["vidcon"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	eviewhy					
+User ID		:	19702999				
+Brodcast ID	:	112358262			
+User level	:	89.6280365				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112358262				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112358262					
+Filename	:	eviewhy_live_112358262				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112358262/112358262.jpg				
+Total Fans	:	57003				
+Fans		:	496					
+Viewers		:	1512				
+Likes		:	1376					
+Shares		:	87				
+Points		:	21119673				
+Tags		:	["vidcon"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	eviewhy					
+User ID		:	19702999				
+Brodcast ID	:	112358262			
+User level	:	89.6280365				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112358262				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112358262					
+Filename	:	eviewhy_live_112358262				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112358262/112358262.jpg				
+Total Fans	:	57003				
+Fans		:	500					
+Viewers		:	1490				
+Likes		:	1378					
+Shares		:	87				
+Points		:	21119673				
+Tags		:	["vidcon"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	eviewhy					
+User ID		:	19702999				
+Brodcast ID	:	112358262			
+User level	:	89.6280365				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112358262				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112358262					
+Filename	:	eviewhy_live_112358262				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112358262/112358262.jpg				
+Total Fans	:	57003				
+Fans		:	505					
+Viewers		:	1529				
+Likes		:	1384					
+Shares		:	87				
+Points		:	21119673				
+Tags		:	["vidcon"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	19702999				
+Brodcast ID	:	112358262			
+User level	:					
+Country		:					
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	6angk_live_112358262				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	ArbitraryVlog					
+User ID		:	8456650				
+Brodcast ID	:	112361241			
+User level	:	92.768842666667				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112361241				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112361241					
+Filename	:	ArbitraryVlog_live_112361241				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112361241/112361241.jpg				
+Total Fans	:	145569				
+Fans		:	568					
+Viewers		:	1035				
+Likes		:	6616					
+Shares		:	234				
+Points		:	35089712				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	Luis_Alonso108					
+User ID		:	7257877				
+Brodcast ID	:	112401942			
+User level	:	78.471390909091				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112401942				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112401942					
+Filename	:	Luis_Alonso108_live_112401942				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112401942/112401942.jpg				
+Total Fans	:	96758				
+Fans		:	746					
+Viewers		:	495				
+Likes		:	2506					
+Shares		:	66				
+Points		:	10072865				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	137					
+Viewers		:	1211				
+Likes		:	938					
+Shares		:	9				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	184					
+Viewers		:	1272				
+Likes		:	1261					
+Shares		:	10				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	264					
+Viewers		:	1347				
+Likes		:	1616					
+Shares		:	13				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	271					
+Viewers		:	1346				
+Likes		:	1650					
+Shares		:	14				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	276					
+Viewers		:	1353				
+Likes		:	1668					
+Shares		:	14				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	279					
+Viewers		:	1386				
+Likes		:	1687					
+Shares		:	14				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	296					
+Viewers		:	1477				
+Likes		:	1781					
+Shares		:	14				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	296					
+Viewers		:	1488				
+Likes		:	1792					
+Shares		:	14				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	306					
+Viewers		:	1524				
+Likes		:	1831					
+Shares		:	14				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:					
+Country		:					
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	324					
+Viewers		:	1533				
+Likes		:	1977					
+Shares		:	14				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	341					
+Viewers		:	1556				
+Likes		:	2189					
+Shares		:	14				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	344					
+Viewers		:	1578				
+Likes		:	2223					
+Shares		:	14				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	350					
+Viewers		:	1574				
+Likes		:	2235					
+Shares		:	15				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	361					
+Viewers		:	1565				
+Likes		:	2406					
+Shares		:	15				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	379					
+Viewers		:	1570				
+Likes		:	2507					
+Shares		:	15				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	392					
+Viewers		:	1530				
+Likes		:	2631					
+Shares		:	15				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	411					
+Viewers		:	1598				
+Likes		:	2761					
+Shares		:	15				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	411					
+Viewers		:	1615				
+Likes		:	2775					
+Shares		:	15				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	449					
+Viewers		:	1634				
+Likes		:	3069					
+Shares		:	15				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	454					
+Viewers		:	1645				
+Likes		:	3078					
+Shares		:	15				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:					
+Country		:					
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	486					
+Viewers		:	1590				
+Likes		:	3381					
+Shares		:	18				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	495					
+Viewers		:	1586				
+Likes		:	3401					
+Shares		:	18				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	626					
+Viewers		:	1629				
+Likes		:	3953					
+Shares		:	26				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	643					
+Viewers		:	1606				
+Likes		:	4078					
+Shares		:	26				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	648					
+Viewers		:	1600				
+Likes		:	4098					
+Shares		:	26				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	659					
+Viewers		:	1597				
+Likes		:	4152					
+Shares		:	27				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	683					
+Viewers		:	1592				
+Likes		:	4325					
+Shares		:	28				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	741					
+Viewers		:	1694				
+Likes		:	4664					
+Shares		:	28				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	$00401CEC				
+Country		:	$00401CEC				
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	$00401CEC				
+Total Fans	:	$00401CEC				
+Fans		:	$00401CEC					
+Viewers		:	$00401CEC				
+Likes		:	$00401CEC					
+Shares		:	$00401CEC				
+Points		:	$00401CEC				
+Tags		:	$00401CEC					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	764					
+Viewers		:	1678				
+Likes		:	4926					
+Shares		:	30				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	780					
+Viewers		:	1624				
+Likes		:	4966					
+Shares		:	30				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	925					
+Viewers		:	1388				
+Likes		:	5373					
+Shares		:	34				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	206244				
+Brodcast ID	:	112414759			
+User level	:	65.241869090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112414759				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112414759					
+Filename	:	fouseyTUBE_live_112414759				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112414759/112414759.jpg				
+Total Fans	:	194116				
+Fans		:	974					
+Viewers		:	1433				
+Likes		:	5678					
+Shares		:	36				
+Points		:	3830114				
+Tags		:	["fouseytube"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	Berblan					
+User ID		:	23386249				
+Brodcast ID	:	112375471			
+User level	:	62.340941818182				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-237-239-97.compute-1.amazonaws.com						
+Stream		:	Stream-112375471				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-237-239-97.compute-1.amazonaws.com/Stream-112375471					
+Filename	:	Berblan_live_112375471				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112375471/112375471.jpg				
+Total Fans	:	1998				
+Fans		:	134					
+Viewers		:	400				
+Likes		:	15117					
+Shares		:	9				
+Points		:	3032359				
+Tags		:	["musicians"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	Berblan					
+User ID		:	23386249				
+Brodcast ID	:	112375471			
+User level	:	62.340941818182				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-237-239-97.compute-1.amazonaws.com						
+Stream		:	Stream-112375471				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-237-239-97.compute-1.amazonaws.com/Stream-112375471					
+Filename	:	Berblan_live_112375471				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112375471/112375471.jpg				
+Total Fans	:	1998				
+Fans		:	141					
+Viewers		:	370				
+Likes		:	15121					
+Shares		:	9				
+Points		:	3032359				
+Tags		:	["musicians"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	darthxrory					
+User ID		:	21083021				
+Brodcast ID	:	112424098			
+User level	:	6.0361				
+Country		:	AU				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-171-46-230.eu-west-1.compute.amazonaws.com						
+Stream		:	Stream-112424098				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-171-46-230.eu-west-1.compute.amazonaws.com/Stream-112424098					
+Filename	:	darthxrory_live_112424098				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112424098/112424098.jpg				
+Total Fans	:	488				
+Fans		:	541					
+Viewers		:	608				
+Likes		:	2266					
+Shares		:	13				
+Points		:	33961				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	BrentMorganMusic					
+User ID		:	48810				
+Brodcast ID	:	112439881			
+User level	:	95.005612119048				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112439881				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112439881					
+Filename	:	BrentMorganMusic_live_112439881				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112439881/112439881.jpg				
+Total Fans	:	72019				
+Fans		:	28					
+Viewers		:	768				
+Likes		:	365					
+Shares		:	27				
+Points		:	72099309				
+Tags		:	["vidcon"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	BeautyChickee					
+User ID		:	1943194				
+Brodcast ID	:	112437165			
+User level	:	74.945547272727				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112437165				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112437165					
+Filename	:	BeautyChickee_live_112437165				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112437165/112437165.jpg				
+Total Fans	:	49017				
+Fans		:	35					
+Viewers		:	413				
+Likes		:	265					
+Shares		:	1				
+Points		:	8133651				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	BeautyChickee					
+User ID		:	1943194				
+Brodcast ID	:	112437165			
+User level	:	74.945547272727				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112437165				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112437165					
+Filename	:	BeautyChickee_live_112437165				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112437165/112437165.jpg				
+Total Fans	:	49017				
+Fans		:	37					
+Viewers		:	401				
+Likes		:	269					
+Shares		:	1				
+Points		:	8133651				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	BeautyChicke					
+User ID		:	1943194				
+Brodcast ID	:	112437165			
+User level	:					
+Country		:					
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	BeautyChicke_live_112437165				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	BrentMorganMusic					
+User ID		:	48810				
+Brodcast ID	:	112439881			
+User level	:	95.005612119048				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112439881				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112439881					
+Filename	:	BrentMorganMusic_live_112439881				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112439881/112439881.jpg				
+Total Fans	:	72019				
+Fans		:	64					
+Viewers		:	977				
+Likes		:	1024					
+Shares		:	70				
+Points		:	72099309				
+Tags		:	["vidcon"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	KalebMitchell97					
+User ID		:	21036341				
+Brodcast ID	:	112442041			
+User level	:	45.430815384615				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-85-133-169.compute-1.amazonaws.com						
+Stream		:	Stream-112442041				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-85-133-169.compute-1.amazonaws.com/Stream-112442041					
+Filename	:	KalebMitchell97_live_112442041				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112442041/112442041.jpg				
+Total Fans	:	12785				
+Fans		:	92					
+Viewers		:	188				
+Likes		:	10609					
+Shares		:	23				
+Points		:	981603				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	KalebMitchell97					
+User ID		:	21036341				
+Brodcast ID	:	112442041			
+User level	:	45.430815384615				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-85-133-169.compute-1.amazonaws.com						
+Stream		:	Stream-112442041				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-85-133-169.compute-1.amazonaws.com/Stream-112442041					
+Filename	:	KalebMitchell97_live_112442041				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112442041/112442041.jpg				
+Total Fans	:	12785				
+Fans		:	92					
+Viewers		:	182				
+Likes		:	10612					
+Shares		:	24				
+Points		:	981603				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	KalebMitchell97					
+User ID		:	21036341				
+Brodcast ID	:	112442041			
+User level	:	45.430815384615				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-85-133-169.compute-1.amazonaws.com						
+Stream		:	Stream-112442041				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-85-133-169.compute-1.amazonaws.com/Stream-112442041					
+Filename	:	KalebMitchell97_live_112442041				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112442041/112442041.jpg				
+Total Fans	:	12785				
+Fans		:	93					
+Viewers		:	162				
+Likes		:	10615					
+Shares		:	24				
+Points		:	981603				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	KalebMitchell97					
+User ID		:	21036341				
+Brodcast ID	:	112442041			
+User level	:	45.430815384615				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-85-133-169.compute-1.amazonaws.com						
+Stream		:	Stream-112442041				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-85-133-169.compute-1.amazonaws.com/Stream-112442041					
+Filename	:	KalebMitchell97_live_112442041				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112442041/112442041.jpg				
+Total Fans	:	12785				
+Fans		:	97					
+Viewers		:	157				
+Likes		:	10615					
+Shares		:	24				
+Points		:	981603				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	fouseyTUBE					
+User ID		:	21036341				
+Brodcast ID	:	112442041			
+User level	:					
+Country		:					
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	fouseyTUBE_live_112442041				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	ArbitraryVlog					
+User ID		:	8456650				
+Brodcast ID	:	112453694			
+User level	:	92.76991125				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112453694				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112453694					
+Filename	:	ArbitraryVlog_live_112453694				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112453694/112453694.jpg				
+Total Fans	:	146239				
+Fans		:	424					
+Viewers		:	1278				
+Likes		:	3524					
+Shares		:	219				
+Points		:	35102535				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	LilShawty41					
+User ID		:	13377858				
+Brodcast ID	:	112590458			
+User level	:	20.417666666667				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-232-130.compute-1.amazonaws.com						
+Stream		:	Stream-112590458				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-232-130.compute-1.amazonaws.com/Stream-112590458					
+Filename	:	LilShawty41_live_112590458				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112590458/112590458.jpg				
+Total Fans	:	568				
+Fans		:	456					
+Viewers		:	441				
+Likes		:	10509					
+Shares		:	13				
+Points		:	184865				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	LilShawty41					
+User ID		:	13377858				
+Brodcast ID	:	112590458			
+User level	:	20.417666666667				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-232-130.compute-1.amazonaws.com						
+Stream		:	Stream-112590458				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-232-130.compute-1.amazonaws.com/Stream-112590458					
+Filename	:	LilShawty41_live_112590458				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112590458/112590458.jpg				
+Total Fans	:	568				
+Fans		:	459					
+Viewers		:	448				
+Likes		:	10509					
+Shares		:	13				
+Points		:	184865				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	Brazyboo7					
+User ID		:	13377858				
+Brodcast ID	:	112590458			
+User level	:					
+Country		:					
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	Brazyboo7_live_112590458				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	LilShawty41					
+User ID		:	13377858				
+Brodcast ID	:	112590458			
+User level	:	20.417666666667				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-232-130.compute-1.amazonaws.com						
+Stream		:	Stream-112590458				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-232-130.compute-1.amazonaws.com/Stream-112590458					
+Filename	:	LilShawty41_live_112590458				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112590458/112590458.jpg				
+Total Fans	:	568				
+Fans		:	465					
+Viewers		:	454				
+Likes		:	15320					
+Shares		:	13				
+Points		:	184865				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	LilShawty41					
+User ID		:	13377858				
+Brodcast ID	:	112590458			
+User level	:	20.417666666667				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-232-130.compute-1.amazonaws.com						
+Stream		:	Stream-112590458				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-232-130.compute-1.amazonaws.com/Stream-112590458					
+Filename	:	LilShawty41_live_112590458				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112590458/112590458.jpg				
+Total Fans	:	568				
+Fans		:	467					
+Viewers		:	464				
+Likes		:	15321					
+Shares		:	13				
+Points		:	184865				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	Brazyboo7					
+User ID		:	26037814				
+Brodcast ID	:	112592588			
+User level	:	3.9967				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-90-230-91.compute-1.amazonaws.com						
+Stream		:	Stream-112592588				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-90-230-91.compute-1.amazonaws.com/Stream-112592588					
+Filename	:	Brazyboo7_live_112592588				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112592588/112592588.jpg				
+Total Fans	:	667				
+Fans		:	181					
+Viewers		:	110				
+Likes		:	4042					
+Shares		:	5				
+Points		:	13567				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	Brazyboo7					
+User ID		:	26037814				
+Brodcast ID	:	112592588			
+User level	:	3.9967				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-90-230-91.compute-1.amazonaws.com						
+Stream		:	Stream-112592588				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-90-230-91.compute-1.amazonaws.com/Stream-112592588					
+Filename	:	Brazyboo7_live_112592588				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112592588/112592588.jpg				
+Total Fans	:	667				
+Fans		:	184					
+Viewers		:	127				
+Likes		:	4043					
+Shares		:	5				
+Points		:	13567				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	RonyaTheSassyQueen					
+User ID		:	1128432				
+Brodcast ID	:	112586545			
+User level	:	58.8533				
+Country		:	NO				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-194-77-86.eu-west-1.compute.amazonaws.com						
+Stream		:	Stream-112586545				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-194-77-86.eu-west-1.compute.amazonaws.com/Stream-112586545					
+Filename	:	RonyaTheSassyQueen_live_112586545				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112586545/112586545.jpg				
+Total Fans	:	8009				
+Fans		:	55					
+Viewers		:	210				
+Likes		:	2866					
+Shares		:	16				
+Points		:	2100397				
+Tags		:	["singing"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	RonyaTheSassyQueen					
+User ID		:	1128432				
+Brodcast ID	:	112586545			
+User level	:	58.8533				
+Country		:	NO				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-194-77-86.eu-west-1.compute.amazonaws.com						
+Stream		:	Stream-112586545				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-194-77-86.eu-west-1.compute.amazonaws.com/Stream-112586545					
+Filename	:	RonyaTheSassyQueen_live_112586545				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112586545/112586545.jpg				
+Total Fans	:	8009				
+Fans		:	55					
+Viewers		:	220				
+Likes		:	2867					
+Shares		:	16				
+Points		:	2100397				
+Tags		:	["singing"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	RonyaTheSassyQueen					
+User ID		:	1128432				
+Brodcast ID	:	112586545			
+User level	:	58.8533				
+Country		:	NO				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-194-77-86.eu-west-1.compute.amazonaws.com						
+Stream		:	Stream-112586545				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-194-77-86.eu-west-1.compute.amazonaws.com/Stream-112586545					
+Filename	:	RonyaTheSassyQueen_live_112586545				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112586545/112586545.jpg				
+Total Fans	:	8009				
+Fans		:	55					
+Viewers		:	221				
+Likes		:	2867					
+Shares		:	16				
+Points		:	2100397				
+Tags		:	["singing"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	TatianaShanks					
+User ID		:	1128432				
+Brodcast ID	:	112586545			
+User level	:					
+Country		:					
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	TatianaShanks_live_112586545				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	TatianaShanks					
+User ID		:	15680476				
+Brodcast ID	:	112597353			
+User level	:	6.6618				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-175-137-62.compute-1.amazonaws.com						
+Stream		:	Stream-112597353				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-54-175-137-62.compute-1.amazonaws.com/Stream-112597353					
+Filename	:	TatianaShanks_live_112597353				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112597353/112597353.jpg				
+Total Fans	:	117				
+Fans		:	26					
+Viewers		:	71				
+Likes		:	48066					
+Shares		:	0				
+Points		:	40218				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	TatianaShanks					
+User ID		:	15680476				
+Brodcast ID	:	112597353			
+User level	:	6.6618				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-175-137-62.compute-1.amazonaws.com						
+Stream		:	Stream-112597353				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-54-175-137-62.compute-1.amazonaws.com/Stream-112597353					
+Filename	:	TatianaShanks_live_112597353				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112597353/112597353.jpg				
+Total Fans	:	117				
+Fans		:	27					
+Viewers		:	70				
+Likes		:	48068					
+Shares		:	0				
+Points		:	40218				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	TatianaShanks					
+User ID		:	15680476				
+Brodcast ID	:	112597353			
+User level	:					
+Country		:					
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	TatianaShanks_live_112597353				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	TatianaShanks					
+User ID		:	15680476				
+Brodcast ID	:	112597353			
+User level	:	6.6618				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-175-137-62.compute-1.amazonaws.com						
+Stream		:	Stream-112597353				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-54-175-137-62.compute-1.amazonaws.com/Stream-112597353					
+Filename	:	TatianaShanks_live_112597353				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112597353/112597353.jpg				
+Total Fans	:	117				
+Fans		:	43					
+Viewers		:	88				
+Likes		:	49327					
+Shares		:	0				
+Points		:	40218				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	TatianaShanks					
+User ID		:	15680476				
+Brodcast ID	:	112597353			
+User level	:	6.6618				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-175-137-62.compute-1.amazonaws.com						
+Stream		:	Stream-112597353				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-54-175-137-62.compute-1.amazonaws.com/Stream-112597353					
+Filename	:	TatianaShanks_live_112597353				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112597353/112597353.jpg				
+Total Fans	:	117				
+Fans		:	74					
+Viewers		:	104				
+Likes		:	50949					
+Shares		:	0				
+Points		:	40218				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	TatianaShanks					
+User ID		:	15680476				
+Brodcast ID	:	112597353			
+User level	:	6.6618				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-175-137-62.compute-1.amazonaws.com						
+Stream		:	Stream-112597353				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-54-175-137-62.compute-1.amazonaws.com/Stream-112597353					
+Filename	:	TatianaShanks_live_112597353				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112597353/112597353.jpg				
+Total Fans	:	117				
+Fans		:	98					
+Viewers		:	120				
+Likes		:	52168					
+Shares		:	1				
+Points		:	40218				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	15680476					
+User ID		:	15680476				
+Brodcast ID	:	112597353			
+User level	:					
+Country		:					
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	15680476_live_112597353				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	SamWickens					
+User ID		:	8242929				
+Brodcast ID	:	112598159			
+User level	:	73.55568				
+Country		:	GB				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com						
+Stream		:	Stream-112598159				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-229-120-48.eu-west-1.compute.amazonaws.com/Stream-112598159					
+Filename	:	SamWickens_live_112598159				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112598159/112598159.jpg				
+Total Fans	:	31923				
+Fans		:	45					
+Viewers		:	321				
+Likes		:	741					
+Shares		:	18				
+Points		:	7369224				
+Tags		:	["singing"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	olleburefors					
+User ID		:	14703129				
+Brodcast ID	:	112598199			
+User level	:	8.2554				
+Country		:	SE				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-194-35-89.eu-west-1.compute.amazonaws.com						
+Stream		:	Stream-112598199				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-194-35-89.eu-west-1.compute.amazonaws.com/Stream-112598199					
+Filename	:	olleburefors_live_112598199				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112598199/112598199.jpg				
+Total Fans	:	72				
+Fans		:	40					
+Viewers		:	129				
+Likes		:	331					
+Shares		:	7				
+Points		:	56154				
+Tags		:	["musicians"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	olleburefors					
+User ID		:	14703129				
+Brodcast ID	:	112598199			
+User level	:	8.2554				
+Country		:	SE				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-194-35-89.eu-west-1.compute.amazonaws.com						
+Stream		:	Stream-112598199				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-194-35-89.eu-west-1.compute.amazonaws.com/Stream-112598199					
+Filename	:	olleburefors_live_112598199				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112598199/112598199.jpg				
+Total Fans	:	72				
+Fans		:	40					
+Viewers		:	129				
+Likes		:	331					
+Shares		:	7				
+Points		:	56154				
+Tags		:	["musicians"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	Savagemason					
+User ID		:	3119503				
+Brodcast ID	:	112619643			
+User level	:	46.947646153846				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-140-100.compute-1.amazonaws.com						
+Stream		:	Stream-112619643				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-91-140-100.compute-1.amazonaws.com/Stream-112619643					
+Filename	:	Savagemason_live_112619643				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112619643/112619643.jpg				
+Total Fans	:	9558				
+Fans		:	19					
+Viewers		:	75				
+Likes		:	9852					
+Shares		:	35				
+Points		:	1080197				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	Roy_king					
+User ID		:	21891061				
+Brodcast ID	:	112619430			
+User level	:	42.262153846154				
+Country		:	GB				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-171-212-182.eu-west-1.compute.amazonaws.com						
+Stream		:	Stream-112619430				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-54-171-212-182.eu-west-1.compute.amazonaws.com/Stream-112619430					
+Filename	:	Roy_king_live_112619430				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112619430/112619430.jpg				
+Total Fans	:	11975				
+Fans		:	50					
+Viewers		:	80				
+Likes		:	20969					
+Shares		:	10				
+Points		:	775640				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112632314			
+User level	:	60.430410909091				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112632314				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112632314					
+Filename	:	6angk_live_112632314				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112632314/112632314.jpg				
+Total Fans	:	89147				
+Fans		:	710					
+Viewers		:	2004				
+Likes		:	3809					
+Shares		:	40				
+Points		:	2506963				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112632314			
+User level	:	60.430410909091				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112632314				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112632314					
+Filename	:	6angk_live_112632314				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112632314/112632314.jpg				
+Total Fans	:	89147				
+Fans		:	1035					
+Viewers		:	1804				
+Likes		:	4776					
+Shares		:	51				
+Points		:	2506963				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	jordynjones					
+User ID		:	13262245				
+Brodcast ID	:	112655260			
+User level	:	15.5741				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com						
+Stream		:	Stream-112655260				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112655260					
+Filename	:	jordynjones_live_112655260				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112655260/112655260.jpg				
+Total Fans	:	17901				
+Fans		:	699					
+Viewers		:	806				
+Likes		:	3787					
+Shares		:	121				
+Points		:	129341				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	HaileyKnox					
+User ID		:	4553596				
+Brodcast ID	:	112678135			
+User level	:	71.583663636364				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112678135				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112678135					
+Filename	:	HaileyKnox_live_112678135				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112678135/112678135.jpg				
+Total Fans	:	77840				
+Fans		:	206					
+Viewers		:	1729				
+Likes		:	2491					
+Shares		:	20				
+Points		:	6284615				
+Tags		:	["vidcon"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112762286			
+User level	:	60.733414545455				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112762286				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112762286					
+Filename	:	6angk_live_112762286				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112762286/112762286.jpg				
+Total Fans	:	102459				
+Fans		:	1682					
+Viewers		:	839				
+Likes		:	2136					
+Shares		:	23				
+Points		:	2590289				
+Tags		:	["sleepingsquad"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112762286			
+User level	:	60.733414545455				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112762286				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112762286					
+Filename	:	6angk_live_112762286				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112762286/112762286.jpg				
+Total Fans	:	102459				
+Fans		:	1711					
+Viewers		:	805				
+Likes		:	2154					
+Shares		:	24				
+Points		:	2590289				
+Tags		:	["sleepingsquad"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	__Mona04__					
+User ID		:	19618067				
+Brodcast ID	:	112769719			
+User level	:	34.9762				
+Country		:					
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-232-130.compute-1.amazonaws.com						
+Stream		:	Stream-112769719				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-91-232-130.compute-1.amazonaws.com/Stream-112769719					
+Filename	:	__Mona04___live_112769719				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112769719/112769719.jpg				
+Total Fans	:	90				
+Fans		:	12					
+Viewers		:	8				
+Likes		:	18					
+Shares		:	0				
+Points		:	463005				
+Tags		:	["sleepingsquad"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112762286			
+User level	:	60.733414545455				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112762286				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112762286					
+Filename	:	6angk_live_112762286				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112762286/112762286.jpg				
+Total Fans	:	102459				
+Fans		:	4214					
+Viewers		:	778				
+Likes		:	3841					
+Shares		:	33				
+Points		:	2590289				
+Tags		:	["sleepingsquad"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	RudanC					
+User ID		:	2133671				
+Brodcast ID	:	112788787			
+User level	:	96.04454447619				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112788787				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112788787					
+Filename	:	RudanC_live_112788787				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112788787/112788787.jpg				
+Total Fans	:	453785				
+Fans		:	27					
+Viewers		:	553				
+Likes		:	1340					
+Shares		:	6				
+Points		:	115734468				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112762286			
+User level	:	60.733414545455				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112762286				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112762286					
+Filename	:	6angk_live_112762286				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112762286/112762286.jpg				
+Total Fans	:	102459				
+Fans		:	4276					
+Viewers		:	757				
+Likes		:	3867					
+Shares		:	33				
+Points		:	2590289				
+Tags		:	["sleepingsquad"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112808449			
+User level	:	60.859054545455				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112808449				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112808449					
+Filename	:	6angk_live_112808449				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112808449/112808449.jpg				
+Total Fans	:	108591				
+Fans		:	115					
+Viewers		:	2881				
+Likes		:	1128					
+Shares		:	13				
+Points		:	2624840				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112808449			
+User level	:	60.859054545455				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112808449				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112808449					
+Filename	:	6angk_live_112808449				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112808449/112808449.jpg				
+Total Fans	:	108591				
+Fans		:	1592					
+Viewers		:	2193				
+Likes		:	6862					
+Shares		:	55				
+Points		:	2624840				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	ArbitraryVlog					
+User ID		:	8456650				
+Brodcast ID	:	112811446			
+User level	:	92.772708666667				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112811446				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112811446					
+Filename	:	ArbitraryVlog_live_112811446				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112811446/112811446.jpg				
+Total Fans	:	147635				
+Fans		:	42					
+Viewers		:	381				
+Likes		:	6062					
+Shares		:	75				
+Points		:	35136104				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	ArbitraryVlog					
+User ID		:	8456650				
+Brodcast ID	:	112811446			
+User level	:	92.772708666667				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112811446				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112811446					
+Filename	:	ArbitraryVlog_live_112811446				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112811446/112811446.jpg				
+Total Fans	:	147635				
+Fans		:	42					
+Viewers		:	380				
+Likes		:	6065					
+Shares		:	75				
+Points		:	35136104				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	JamesNeese					
+User ID		:	557350				
+Brodcast ID	:	112812050			
+User level	:	93.590402090909				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112812050				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112812050					
+Filename	:	JamesNeese_live_112812050				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112812050/112812050.jpg				
+Total Fans	:	123460				
+Fans		:	188					
+Viewers		:	316				
+Likes		:	2776					
+Shares		:	32				
+Points		:	50852446				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112808449			
+User level	:	60.859054545455				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112808449				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112808449					
+Filename	:	6angk_live_112808449				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112808449/112808449.jpg				
+Total Fans	:	108591				
+Fans		:	1921					
+Viewers		:	2278				
+Likes		:	7699					
+Shares		:	61				
+Points		:	2624840				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112808449			
+User level	:	60.859054545455				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112808449				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112808449					
+Filename	:	6angk_live_112808449				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112808449/112808449.jpg				
+Total Fans	:	108591				
+Fans		:	1929					
+Viewers		:	2256				
+Likes		:	7715					
+Shares		:	61				
+Points		:	2624840				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112808449			
+User level	:	60.859054545455				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112808449				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112808449					
+Filename	:	6angk_live_112808449				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112808449/112808449.jpg				
+Total Fans	:	108591				
+Fans		:	1968					
+Viewers		:	2256				
+Likes		:	7796					
+Shares		:	63				
+Points		:	2624840				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	ToyBox					
+User ID		:	19518281				
+Brodcast ID	:	112828988			
+User level	:	59.30824				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112828988				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112828988					
+Filename	:	ToyBox_live_112828988				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112828988/112828988.jpg				
+Total Fans	:	15821				
+Fans		:	19					
+Viewers		:	464				
+Likes		:	5316					
+Shares		:	10				
+Points		:	2198366				
+Tags		:	["vidcon"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112853640			
+User level	:	61.182483636364				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112853640				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112853640					
+Filename	:	6angk_live_112853640				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112853640/112853640.jpg				
+Total Fans	:	112100				
+Fans		:	1356					
+Viewers		:	2809				
+Likes		:	3669					
+Shares		:	36				
+Points		:	2713783				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	112853640			
+User level	:	61.182483636364				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112853640				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112853640					
+Filename	:	6angk_live_112853640				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112853640/112853640.jpg				
+Total Fans	:	112100				
+Fans		:	1362					
+Viewers		:	2889				
+Likes		:	3687					
+Shares		:	36				
+Points		:	2713783				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	ayexmadeline					
+User ID		:	2892602				
+Brodcast ID	:	112885267			
+User level	:	89.593495				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-23-237-91.compute-1.amazonaws.com						
+Stream		:	Stream-112885267				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-23-237-91.compute-1.amazonaws.com/Stream-112885267					
+Filename	:	ayexmadeline_live_112885267				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112885267/112885267.jpg				
+Total Fans	:	131790				
+Fans		:	34					
+Viewers		:	946				
+Likes		:	61					
+Shares		:	3				
+Points		:	21050590				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	sultanbin_saif					
+User ID		:	25729216				
+Brodcast ID	:	112954750			
+User level	:	2.6805				
+Country		:	AE				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-229-199-154.eu-west-1.compute.amazonaws.com						
+Stream		:	Stream-112954750				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-54-229-199-154.eu-west-1.compute.amazonaws.com/Stream-112954750					
+Filename	:	sultanbin_saif_live_112954750				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112954750/112954750.jpg				
+Total Fans	:	5				
+Fans		:	12					
+Viewers		:	85				
+Likes		:	12					
+Shares		:	0				
+Points		:	2961				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	sultanbin_saif					
+User ID		:	25729216				
+Brodcast ID	:	112954750			
+User level	:	2.6805				
+Country		:	AE				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-229-199-154.eu-west-1.compute.amazonaws.com						
+Stream		:	Stream-112954750				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-54-229-199-154.eu-west-1.compute.amazonaws.com/Stream-112954750					
+Filename	:	sultanbin_saif_live_112954750				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112954750/112954750.jpg				
+Total Fans	:	5				
+Fans		:	14					
+Viewers		:	83				
+Likes		:	12					
+Shares		:	0				
+Points		:	2961				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	HijabBeauty					
+User ID		:	25729216				
+Brodcast ID	:	112954750			
+User level	:					
+Country		:					
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	HijabBeauty_live_112954750				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	HijabBeauty					
+User ID		:	2583088				
+Brodcast ID	:	112925056			
+User level	:	31.3608				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-232-130.compute-1.amazonaws.com						
+Stream		:	Stream-112925056				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-91-232-130.compute-1.amazonaws.com/Stream-112925056					
+Filename	:	HijabBeauty_live_112925056				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112925056/112925056.jpg				
+Total Fans	:	1054				
+Fans		:	175					
+Viewers		:	85				
+Likes		:	9919					
+Shares		:	2				
+Points		:	372620				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	HijabBeauty					
+User ID		:	2583088				
+Brodcast ID	:	112925056			
+User level	:	31.3608				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-232-130.compute-1.amazonaws.com						
+Stream		:	Stream-112925056				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-91-232-130.compute-1.amazonaws.com/Stream-112925056					
+Filename	:	HijabBeauty_live_112925056				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/112925056/112925056.jpg				
+Total Fans	:	1054				
+Fans		:	183					
+Viewers		:	64				
+Likes		:	9928					
+Shares		:	2				
+Points		:	372620				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	113239376			
+User level	:	61.586338181818				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:						
+App		:							
+Stream		:					
+RTMP		:	rtmp:///					
+Filename	:	6angk_live_113239376				
+Thumbnail	:					
+Total Fans	:	141051				
+Fans		:	20					
+Viewers		:	28				
+Likes		:	0					
+Shares		:	0				
+Points		:	2824843				
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	113400814			
+User level	:	61.836570909091				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-84-138.compute-1.amazonaws.com						
+Stream		:	Stream-113400814				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-91-84-138.compute-1.amazonaws.com/Stream-113400814					
+Filename	:	6angk_live_113400814				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113400814/113400814.jpg				
+Total Fans	:	152319				
+Fans		:	4					
+Viewers		:	7				
+Likes		:	0					
+Shares		:	0				
+Points		:	2893657				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	113408114			
+User level	:	61.92944				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-84-138.compute-1.amazonaws.com						
+Stream		:	Stream-113408114				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-84-138.compute-1.amazonaws.com/Stream-113408114					
+Filename	:	6angk_live_113408114				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113408114/113408114.jpg				
+Total Fans	:	152639				
+Fans		:	55					
+Viewers		:	2137				
+Likes		:	588					
+Shares		:	8				
+Points		:	2919196				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	113408114			
+User level	:	61.92944				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-84-138.compute-1.amazonaws.com						
+Stream		:	Stream-113408114				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-84-138.compute-1.amazonaws.com/Stream-113408114					
+Filename	:	6angk_live_113408114				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113408114/113408114.jpg				
+Total Fans	:	152639				
+Fans		:	75					
+Viewers		:	1912				
+Likes		:	747					
+Shares		:	16				
+Points		:	2919196				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	MikeSmallsJr					
+User ID		:	4806445				
+Brodcast ID	:	113419444			
+User level	:	77.51356				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-84-138.compute-1.amazonaws.com						
+Stream		:	Stream-113419444				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-84-138.compute-1.amazonaws.com/Stream-113419444					
+Filename	:	MikeSmallsJr_live_113419444				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113419444/113419444.jpg				
+Total Fans	:	112387				
+Fans		:	73					
+Viewers		:	408				
+Likes		:	6336					
+Shares		:	47				
+Points		:	9546058				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	NathanTriska					
+User ID		:	2666470				
+Brodcast ID	:	113425552			
+User level	:	91.123323				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-84-138.compute-1.amazonaws.com						
+Stream		:	Stream-113425552				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-84-138.compute-1.amazonaws.com/Stream-113425552					
+Filename	:	NathanTriska_live_113425552				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113425552/113425552.jpg				
+Total Fans	:	215815				
+Fans		:	186					
+Viewers		:	2060				
+Likes		:	2509					
+Shares		:	92				
+Points		:	24110246				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	NathanTriska					
+User ID		:	2666470				
+Brodcast ID	:	113425552			
+User level	:	91.123323				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-84-138.compute-1.amazonaws.com						
+Stream		:	Stream-113425552				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-84-138.compute-1.amazonaws.com/Stream-113425552					
+Filename	:	NathanTriska_live_113425552				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113425552/113425552.jpg				
+Total Fans	:	215815				
+Fans		:	203					
+Viewers		:	2045				
+Likes		:	2578					
+Shares		:	158				
+Points		:	24110246				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	113604028			
+User level	:	62.292076363636				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-84-138.compute-1.amazonaws.com						
+Stream		:	Stream-113604028				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-84-138.compute-1.amazonaws.com/Stream-113604028					
+Filename	:	6angk_live_113604028				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113604028/113604028.jpg				
+Total Fans	:	165488				
+Fans		:	267					
+Viewers		:	2024				
+Likes		:	4828					
+Shares		:	47				
+Points		:	3018921				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	Luis_Alonso108					
+User ID		:	7257877				
+Brodcast ID	:	113782669			
+User level	:	79.529766315789				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:						
+App		:							
+Stream		:					
+RTMP		:	rtmp:///					
+Filename	:	Luis_Alonso108_live_113782669				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113782669/113782669.jpg				
+Total Fans	:	106685				
+Fans		:	0					
+Viewers		:	12				
+Likes		:	0					
+Shares		:	0				
+Points		:	10866878				
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	Luis_Alonso108					
+User ID		:	7257877				
+Brodcast ID	:	113782669			
+User level	:	79.529766315789				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:						
+App		:							
+Stream		:					
+RTMP		:	rtmp:///					
+Filename	:	Luis_Alonso108_live_113782669				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113782669/113782669.jpg				
+Total Fans	:	106685				
+Fans		:	0					
+Viewers		:	1				
+Likes		:	0					
+Shares		:	0				
+Points		:	10866878				
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	Luis_Alonso108					
+User ID		:	7257877				
+Brodcast ID	:	113782669			
+User level	:	79.529766315789				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:						
+App		:							
+Stream		:					
+RTMP		:	rtmp:///					
+Filename	:	Luis_Alonso108_live_113782669				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113782669/113782669.jpg				
+Total Fans	:	106685				
+Fans		:	0					
+Viewers		:	1				
+Likes		:	0					
+Shares		:	0				
+Points		:	10866878				
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	Luis_Alonso108					
+User ID		:	7257877				
+Brodcast ID	:	113782669			
+User level	:	79.529766315789				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	start.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-39-32.compute-1.amazonaws.com						
+Stream		:	Stream-113782669				
+RTMP		:	rtmp://start.oddcast.xc.advection.net/oddcast/ec2-52-91-39-32.compute-1.amazonaws.com/Stream-113782669					
+Filename	:	Luis_Alonso108_live_113782669				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113782669/113782669.jpg				
+Total Fans	:	106685				
+Fans		:	0					
+Viewers		:	12				
+Likes		:	4					
+Shares		:	0				
+Points		:	10866878				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	Luis_Alonso108					
+User ID		:	7257877				
+Brodcast ID	:	113782669			
+User level	:	79.529766315789				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-39-32.compute-1.amazonaws.com						
+Stream		:	Stream-113782669				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-39-32.compute-1.amazonaws.com/Stream-113782669					
+Filename	:	Luis_Alonso108_live_113782669				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113782669/113782669.jpg				
+Total Fans	:	106685				
+Fans		:	0					
+Viewers		:	238				
+Likes		:	830					
+Shares		:	0				
+Points		:	10866878				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	Luis_Alonso108					
+User ID		:	7257877				
+Brodcast ID	:	113782669			
+User level	:	79.529766315789				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-39-32.compute-1.amazonaws.com						
+Stream		:	Stream-113782669				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-39-32.compute-1.amazonaws.com/Stream-113782669					
+Filename	:	Luis_Alonso108_live_113782669				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113782669/113782669.jpg				
+Total Fans	:	106685				
+Fans		:	1					
+Viewers		:	323				
+Likes		:	969					
+Shares		:	1				
+Points		:	10866878				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	113918088			
+User level	:	63.155723636364				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-39-32.compute-1.amazonaws.com						
+Stream		:	Stream-113918088				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-39-32.compute-1.amazonaws.com/Stream-113918088					
+Filename	:	6angk_live_113918088				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113918088/113918088.jpg				
+Total Fans	:	183039				
+Fans		:	947					
+Viewers		:	3926				
+Likes		:	9726					
+Shares		:	73				
+Points		:	3256424				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	113918088			
+User level	:	63.155723636364				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-39-32.compute-1.amazonaws.com						
+Stream		:	Stream-113918088				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-39-32.compute-1.amazonaws.com/Stream-113918088					
+Filename	:	6angk_live_113918088				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113918088/113918088.jpg				
+Total Fans	:	183039				
+Fans		:	998					
+Viewers		:	4118				
+Likes		:	9943					
+Shares		:	76				
+Points		:	3256424				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	113918088			
+User level	:	63.155723636364				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-39-32.compute-1.amazonaws.com						
+Stream		:	Stream-113918088				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-39-32.compute-1.amazonaws.com/Stream-113918088					
+Filename	:	6angk_live_113918088				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113918088/113918088.jpg				
+Total Fans	:	183039				
+Fans		:	1005					
+Viewers		:	4194				
+Likes		:	9975					
+Shares		:	76				
+Points		:	3256424				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	anasqiblawi					
+User ID		:	1824417				
+Brodcast ID	:	113934720			
+User level	:	6.3421				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:						
+App		:							
+Stream		:					
+RTMP		:	rtmp:///					
+Filename	:	anasqiblawi_live_113934720				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113934720/113934720.jpg				
+Total Fans	:	47				
+Fans		:	0					
+Viewers		:	2				
+Likes		:	0					
+Shares		:	0				
+Points		:	37021				
+Tags		:	["musicians"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	anasqiblawi					
+User ID		:	1824417				
+Brodcast ID	:	113934720			
+User level	:	6.3421				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:						
+App		:							
+Stream		:					
+RTMP		:	rtmp:///					
+Filename	:	anasqiblawi_live_113934720				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113934720/113934720.jpg				
+Total Fans	:	47				
+Fans		:	0					
+Viewers		:	2				
+Likes		:	0					
+Shares		:	0				
+Points		:	37021				
+Tags		:	["musicians"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	anasqiblawi					
+User ID		:	1824417				
+Brodcast ID	:	113934720			
+User level	:	6.3421				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:						
+App		:							
+Stream		:					
+RTMP		:	rtmp:///					
+Filename	:	anasqiblawi_live_113934720				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/113934720/113934720.jpg				
+Total Fans	:	47				
+Fans		:	0					
+Viewers		:	2				
+Likes		:	0					
+Shares		:	0				
+Points		:	37021				
+Tags		:	["musicians"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	114837935			
+User level	:	65.451156363636				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-39-32.compute-1.amazonaws.com						
+Stream		:	Stream-114837935				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-39-32.compute-1.amazonaws.com/Stream-114837935					
+Filename	:	6angk_live_114837935				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/114837935/114837935.jpg				
+Total Fans	:	225133				
+Fans		:	389					
+Viewers		:	1505				
+Likes		:	4499					
+Shares		:	47				
+Points		:	3887668				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	114837935			
+User level	:	65.451156363636				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-91-39-32.compute-1.amazonaws.com						
+Stream		:	Stream-114837935				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-39-32.compute-1.amazonaws.com/Stream-114837935					
+Filename	:	6angk_live_114837935				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/114837935/114837935.jpg				
+Total Fans	:	225133				
+Fans		:	394					
+Viewers		:	1510				
+Likes		:	4523					
+Shares		:	47				
+Points		:	3887668				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	InternetEdition					
+User ID		:	12195541				
+Brodcast ID	:	116170015			
+User level	:	49.103555555556				
+Country		:	AU				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-154-237-19.eu-west-1.compute.amazonaws.com						
+Stream		:	Stream-116170015				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-154-237-19.eu-west-1.compute.amazonaws.com/Stream-116170015					
+Filename	:	InternetEdition_live_116170015				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/116170015/116170015.jpg				
+Total Fans	:	15302				
+Fans		:	55					
+Viewers		:	467				
+Likes		:	3806					
+Shares		:	24				
+Points		:	1222920				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	AmandaPadeezy					
+User ID		:	6716501				
+Brodcast ID	:	116167654			
+User level	:	61.865127272727				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-52-90-206-119.compute-1.amazonaws.com						
+Stream		:	Stream-116167654				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-90-206-119.compute-1.amazonaws.com/Stream-116167654					
+Filename	:	AmandaPadeezy_live_116167654				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/116167654/116167654.jpg				
+Total Fans	:	15927				
+Fans		:	77					
+Viewers		:	147				
+Likes		:	4602					
+Shares		:	9				
+Points		:	2901510				
+Tags		:	["dance"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	Christina_C					
+User ID		:	6032315				
+Brodcast ID	:	118456852			
+User level	:	89.119855				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-209-51-214.compute-1.amazonaws.com						
+Stream		:	Stream-118456852				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-209-51-214.compute-1.amazonaws.com/Stream-118456852					
+Filename	:	Christina_C_live_118456852				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/118456852/118456852.jpg				
+Total Fans	:	303097				
+Fans		:	2558					
+Viewers		:	2566				
+Likes		:	29936					
+Shares		:	152				
+Points		:	20103310				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	119416835			
+User level	:	69.264365454545				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-209-51-214.compute-1.amazonaws.com						
+Stream		:	Stream-119416835				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-209-51-214.compute-1.amazonaws.com/Stream-119416835					
+Filename	:	6angk_live_119416835				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/119416835/119416835.jpg				
+Total Fans	:	337314				
+Fans		:	390					
+Viewers		:	1425				
+Likes		:	1888					
+Shares		:	58				
+Points		:	5009001				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:	18972472				
+Brodcast ID	:	119416835			
+User level	:	69.264365454545				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-209-51-214.compute-1.amazonaws.com						
+Stream		:	Stream-119416835				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-209-51-214.compute-1.amazonaws.com/Stream-119416835					
+Filename	:	6angk_live_119416835				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/119416835/119416835.jpg				
+Total Fans	:	337314				
+Fans		:	395					
+Viewers		:	1450				
+Likes		:	1907					
+Shares		:	59				
+Points		:	5009001				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	JoelAndMonica					
+User ID		:	10970568				
+Brodcast ID	:	122747259			
+User level	:	82.662913684211				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App		:	oddcast/ec2-54-173-243-241.compute-1.amazonaws.com						
+Stream		:	Stream-122747259				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-54-173-243-241.compute-1.amazonaws.com/Stream-122747259					
+Filename	:	JoelAndMonica_live_122747259				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/122747259/122747259.jpg				
+Total Fans	:	96043				
+Fans		:	32					
+Viewers		:	349				
+Likes		:	3390					
+Shares		:	31				
+Points		:	13843368				
+Tags		:	["singing"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	Christina_C					
+User ID		:	6032315				
+Brodcast ID	:				
+User level	:					
+Country		:					
+	- - - RTMP - - -					
+Host		:						
+App		:							
+Stream		:					
+RTMP		:	rtmp:///					
+Filename	:	Christina_C_live_				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	itssnowhimself					
+User ID		:	25141614				
+Brodcast ID	:				
+User level	:	$00401CEC				
+Country		:	$00401CEC				
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	itssnowhimself_live_				
+Thumbnail	:	$00401CEC				
+Total Fans	:	$00401CEC				
+Fans		:	$00401CEC					
+Viewers		:	$00401CEC				
+Likes		:	$00401CEC					
+Shares		:	$00401CEC				
+Points		:	$00401CEC				
+Tags		:	$00401CEC					
+-------------------------------------------
+	- - - User - - -					
+Username	:	itssnowhimself					
+User ID		:	25141614				
+Brodcast ID	:	124744021			
+User level	:	55.124322222222				
+Country		:	CA				
+	- - - RTMP - - -					
+Host		:	pullstream.younow.8686c.com/					
+App		:	live						
+Stream		:	Stream-124744021				
+RTMP		:	rtmp://pullstream.younow.8686c.com/live/Stream-124744021					
+Filename	:	itssnowhimself_live_124744021				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/124744021/124744021.jpg				
+Total Fans	:	49338				
+Fans		:	106					
+Viewers		:	567				
+Likes		:	3376					
+Shares		:	8				
+Points		:	1764789				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	itssnowhimself					
+User ID		:	25141614				
+Brodcast ID	:	124744021			
+User level	:	55.124322222222				
+Country		:	CA				
+	- - - RTMP - - -					
+Host		:	pullstream.younow.8686c.com/					
+App		:	live						
+Stream		:	Stream-124744021				
+RTMP		:	rtmp://pullstream.younow.8686c.com/live/Stream-124744021					
+Filename	:	itssnowhimself_live_124744021				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/124744021/124744021.jpg				
+Total Fans	:	49338				
+Fans		:	141					
+Viewers		:	605				
+Likes		:	3646					
+Shares		:	11				
+Points		:	1764789				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	itssnowhimself					
+User ID		:	25141614				
+Brodcast ID	:	124744021			
+User level	:	55.124322222222				
+Country		:	CA				
+	- - - RTMP - - -					
+Host		:	pullstream.younow.8686c.com/					
+App		:	live						
+Stream		:	Stream-124744021				
+RTMP		:	rtmp://pullstream.younow.8686c.com/live/Stream-124744021					
+Filename	:	itssnowhimself_live_124744021				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/124744021/124744021.jpg				
+Total Fans	:	49338				
+Fans		:	142					
+Viewers		:	585				
+Likes		:	3646					
+Shares		:	11				
+Points		:	1764789				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	itssnowhimself					
+User ID		:	25141614				
+Brodcast ID	:	124744021			
+User level	:	55.124322222222				
+Country		:	CA				
+	- - - RTMP - - -					
+Host		:	pullstream.younow.8686c.com/					
+App		:	live						
+Stream		:	Stream-124744021				
+RTMP		:	rtmp://pullstream.younow.8686c.com/live/Stream-124744021					
+Filename	:	itssnowhimself_live_124744021				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/124744021/124744021.jpg				
+Total Fans	:	49338				
+Fans		:	147					
+Viewers		:	578				
+Likes		:	3661					
+Shares		:	11				
+Points		:	1764789				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	BrentMorganMusic					
+User ID		:	48810				
+Brodcast ID	:	124788081			
+User level	:	95.21757302381				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	pullstream.younow.8686c.com/					
+App		:	live						
+Stream		:	Stream-124788081				
+RTMP		:	rtmp://pullstream.younow.8686c.com/live/Stream-124788081					
+Filename	:	BrentMorganMusic_live_124788081				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/124788081/124788081.jpg				
+Total Fans	:	132151				
+Fans		:	51					
+Viewers		:	480				
+Likes		:	4813					
+Shares		:	35				
+Points		:	81001667				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	BrentMorganMusic					
+User ID		:	48810				
+Brodcast ID	:	124788081			
+User level	:	$00401CEC				
+Country		:	$00401CEC				
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	BrentMorganMusic_live_124788081				
+Thumbnail	:	$00401CEC				
+Total Fans	:	$00401CEC				
+Fans		:	$00401CEC					
+Viewers		:	$00401CEC				
+Likes		:	$00401CEC					
+Shares		:	$00401CEC				
+Points		:	$00401CEC				
+Tags		:	$00401CEC					
+-------------------------------------------
+	- - - User - - -					
+Username	:	BrentMorganMusic					
+User ID		:	48810				
+Brodcast ID	:	124788081			
+User level	:	95.21757302381				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	pullstream.younow.8686c.com/					
+App		:	live						
+Stream		:	Stream-124788081				
+RTMP		:	rtmp://pullstream.younow.8686c.com/live/Stream-124788081					
+Filename	:	BrentMorganMusic_live_124788081				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/124788081/124788081.jpg				
+Total Fans	:	132151				
+Fans		:	53					
+Viewers		:	497				
+Likes		:	4819					
+Shares		:	35				
+Points		:	81001667				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	NikkiRechtszaid					
+User ID		:	13664052				
+Brodcast ID	:	125042240			
+User level	:	70.804070909091				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	pullstream.younow.8686c.com/					
+App		:	live						
+Stream		:	Stream-125042240				
+RTMP		:	rtmp://pullstream.younow.8686c.com/live/Stream-125042240					
+Filename	:	NikkiRechtszaid_live_125042240				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/125042240/125042240.jpg				
+Total Fans	:	86982				
+Fans		:	662					
+Viewers		:	567				
+Likes		:	5190					
+Shares		:	56				
+Points		:	5855839				
+Tags		:	["girls"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	6angk					
+User ID		:					
+Brodcast ID	:				
+User level	:					
+Country		:					
+	- - - RTMP - - -					
+Host		:	$00401CEC					
+App		:							
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	6angk_live_				
+Thumbnail	:					
+Total Fans	:					
+Fans		:						
+Viewers		:					
+Likes		:						
+Shares		:					
+Points		:					
+Tags		:						
+-------------------------------------------
+	- - - User - - -					
+Username	:	Luis_Alonso108					
+User ID		:	7257877				
+Brodcast ID	:	146824796			
+User level	:	85.64648				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	pullstream.younow.8686c.com/					
+App		:	live						
+Stream		:	Stream-146824796				
+RTMP		:	rtmp://pullstream.younow.8686c.com/live/Stream-146824796					
+Filename	:	Luis_Alonso108_live_146824796				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/146824796/146824796.jpg				
+Total Fans	:	170065				
+Fans		:	119					
+Viewers		:	226				
+Likes		:	8659					
+Shares		:	22				
+Points		:	16677756				
+Tags		:	["guys"]					
+-------------------------------------------
+	- - - User - - -					
+Username	:	BrentMorganMusic					
+User ID		:	48810				
+Brodcast ID	:	166250688			
+User level	:	96.66338325				
+Country		:	US				
+	- - - RTMP - - -					
+Host		:	pullstream.younow.8686c.com/					
+App		:	live						
+Stream		:	Stream-166250688				
+RTMP		:	rtmp://pullstream.younow.8686c.com/live/Stream-166250688					
+Filename	:	BrentMorganMusic_live_166250688				
+Thumbnail	:	https://ynassets.s3.amazonaws.com/broadcast/live/166250688/166250688.jpg				
+Total Fans	:	157748				
+Fans		:	1					
+Viewers		:	116				
+Likes		:	48					
+Shares		:	11				
+Points		:	61581265				
+Tags		:	["guys"]					
+-------------------------------------------

@@ -1,0 +1,76 @@
+-------------------------------------------
+Username	:	Con-naw-nur					
+User ID		:	13807262				
+Error		:	206					
+-------------------------------------------
+	- - - Down - - -					
+Username	:	Con-naw-nur					
+User ID		:	13807262				
+Brodcast ID	:	112240701			
+My Date		:	2016-06-22				
+My Time		:	05:00:23				
+Session ID	:	6n77rvuflrcd09tsd0d07u80q5				
+Play		:	rtmp://archive.younow.com:1935/bnowvods3/_definst_/mp4:amazons3/younowvideosplaylist.m3u8					
+RTMP		:	rtmp://archive.younow.com:1935/bnowvods3/_definst_/mp4:amazons3/younowvideosplaylist.m3u8?sessionId=6n77rvuflrcd09tsd0d07u80q5					
+-------------------------------------------															
+Username	:	christianxwinters					
+User ID		:	19094130				
+Error		:	0					
+Brodcast ID	:	112237561			
+-------------------------------------------
+	- - - Live - - -					
+Username	:	christianxwinters					
+User ID		:	19094130				
+Brodcast ID	:	112237561			
+Host		:	wfs-live.oddcast.xc.advection.net/					
+App			:oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112237561				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112237561					
+Filename	:	christianxwinters_live_112237561.flv				
+-------------------------------------------Username	:	christianxwinters					
+User ID		:					
+Error		:						
+Username	:	christianxwinters					
+User ID		:	19094130				
+Error		:	0					
+Brodcast ID	:	112237561			
+-------------------------------------------
+	- - - Live - - -					
+Username	:	christianxwinters					
+User ID		:	19094130				
+Brodcast ID	:	112237561			
+Host		:wfs-live.oddcast.xc.advection.net/					
+App			:	oddcast/ec2-52-91-236-211.compute-1.amazonaws.com					
+Stream		:	Stream-112237561				
+RTMP		:	rtmp://wfs-live.oddcast.xc.advection.net/oddcast/ec2-52-91-236-211.compute-1.amazonaws.com/Stream-112237561					
+Filename	:	christianxwinters_live_112237561.flv				
+-------------------------------------------
+-------------------------------------------
+Username	:	christianxwinters					
+User ID		:	19094130				
+Error		:	0					
+-------------------------------------------
+	- - - Down - - -					
+Username	:	christianxwinters					
+User ID		:	19094130				
+Brodcast ID	:	112189265			
+My Date		:	2016-06-21				
+My Time		:	21:21:34				
+Session ID	:	nuealoqhdufqh1ue00hpp21gl6				
+Play		:	rtmp://archive.younow.com:1935/bnowvods3/_definst_/mp4:amazons3/younowvideosplaylist.m3u8					
+RTMP		:	rtmp://archive.younow.com:1935/bnowvods3/_definst_/mp4:amazons3/younowvideosplaylist.m3u8?sessionId=nuealoqhdufqh1ue00hpp21gl6					
+-------------------------------------------Username	:	christianxwinters					
+User ID		:	19094130				
+Error		:	0					
+Brodcast ID	:	112237561			
+-------------------------------------------
+	- - - Live - - -					
+Username	:	christianxwinters					
+User ID		:	19094130				
+Brodcast ID	:	112237561			
+Host		:	$00401CEC					
+App		:						
+Stream		:					
+RTMP		:	rtmp://$00401CEC/					
+Filename	:	christianxwinters_live_112237561.flv				
+-------------------------------------------
